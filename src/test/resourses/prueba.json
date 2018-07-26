@@ -1,0 +1,17 @@
+{
+  "nombre": "carlos",
+  "apellido": "acevedo",
+  "edad": 29,
+  "familia": [
+    {
+      "nombre": "pipe",
+      "apellido": "acevedo",
+      "edad": 25
+    },
+    {
+      "nombre": "zulema",
+      "apellido": "duque",
+      "edad": 56
+    }
+  ]
+}
